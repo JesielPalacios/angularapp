@@ -1,6 +1,6 @@
 # Angularapp
 
-Aplicación Angular básica, con router sencillo entre componentes.
+Basic Angular application, with simple router between components.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.7.
 
