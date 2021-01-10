@@ -9,7 +9,7 @@ import { CounterAppComponent } from './pages/counter-app/counter-app.component';
 
 const routes: Routes = [
   { path: '', component: HomeComponent },
-  { path: 'counter', component: CounterAppComponent },
+  { path: 'counterapp', component: CounterAppComponent },
   { path: 'about', component: AboutComponent },
   { path: 'contact', component: ContactComponent },
 ];
