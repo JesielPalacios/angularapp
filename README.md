@@ -1,6 +1,6 @@
 # Angularapp
 
-Basic Angular application, with simple router between components on a local server with a local server (this once the application is in production) through port 9000 that must be executed manually with: node server.js
+Basic Angular application, with simple router between components on a local server with a local server file server.js
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.7.
 
@@ -15,6 +15,8 @@ Run `ng generate component component-name` to generate a new component. You can 
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+
+**Note: (this once the application is in production) through port 9000 that must be executed manually with: node server.js**
 
 ## Running unit tests
 
