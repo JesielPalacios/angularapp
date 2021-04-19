@@ -5,8 +5,6 @@ import { AboutComponent } from './pages/about/about.component';
 import { ContactComponent } from './pages/contact/contact.component';
 import { CounterAppComponent } from './pages/counter-app/counter-app.component';
 
-
-
 const routes: Routes = [
   { path: '', component: HomeComponent },
   { path: 'counterapp', component: CounterAppComponent },
